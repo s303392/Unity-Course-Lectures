@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.11f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/filip/Desktop/Politecnico/INGEGNERIA/Magistrale/Realtà_virtualeLoc/RepoProf/Unity-Course-Lectures/Unity-Course-Lectures
+C:/Users/Edmond/MyStuff/Didattica/VR23/Unity-Course-Lectures/Unity-Course-Lectures
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54537
-Successfully changed project path to: C:/Users/filip/Desktop/Politecnico/INGEGNERIA/Magistrale/Realtà_virtualeLoc/RepoProf/Unity-Course-Lectures/Unity-Course-Lectures
-C:/Users/filip/Desktop/Politecnico/INGEGNERIA/Magistrale/Realtà_virtualeLoc/RepoProf/Unity-Course-Lectures/Unity-Course-Lectures
+57844
+Successfully changed project path to: C:/Users/Edmond/MyStuff/Didattica/VR23/Unity-Course-Lectures/Unity-Course-Lectures
+C:/Users/Edmond/MyStuff/Didattica/VR23/Unity-Course-Lectures/Unity-Course-Lectures
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
