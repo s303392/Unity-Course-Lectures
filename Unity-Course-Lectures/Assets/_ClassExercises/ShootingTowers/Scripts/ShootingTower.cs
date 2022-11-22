@@ -72,7 +72,7 @@ public class ShootingTower : MonoBehaviour
     {
         //CHECK IF IS WITHIN VIEW DISTANCE
         float squareTargetDistance = (directionToTarget).sqrMagnitude;
-        if (squareTargetDistance <= _maxTargetDistance * _maxTargetDistance)
+        if (squareTargetDistance <= _maxTargetDistance * _maxTargetDistance) //si confronta al quadrato perchè è più veloce
         {
             //CHECK IF FALLS WITHIN VIEW ANGLE
             float angleToTarget = Vector3.Angle(_rotatingBase.forward, directionToTarget.normalized);
